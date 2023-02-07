@@ -1,4 +1,4 @@
-# 🐍🍎 snake 🍏🐍
+# [center]🐍🍎 snake 🍏🐍[/center]
 ***
 Bonjour,
 
