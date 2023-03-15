@@ -12,4 +12,3 @@ pour lancer:
 
 bonne journée 😃
 
-![](animation.gif)
